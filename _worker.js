@@ -3,8 +3,8 @@ import { connect } from "cloudflare:sockets";
 // Variables
 const rootDomain = "vishiki.web.id"; // Ganti dengan domain utama kalian
 const serviceName = "vishikuro"; // Ganti dengan nama workers kalian
-const apiKey = ""; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
-const apiEmail = ""; // Ganti dengan email yang kalian gunakan
+const apiKey = "XoYGoCBjZ8P-y6PwgbcxZ9O7hPhVZCizIJQw5hG8"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
+const apiEmail = "pagat.kuro@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "f1e0a3160db7b3cab159be06edd5e708"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = "d9ea95f9805db85c81a0c6e0ed213bdb"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 let isApiReady = false;
